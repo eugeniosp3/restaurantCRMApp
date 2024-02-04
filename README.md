@@ -33,4 +33,12 @@ https://pragmaticoders.medium.com/tailwindcss-plotly-dash-data-is-beautiful-78c4
 # Required Python Libraries
 `pip install dash pandas`
 
+# Open Source Data From
 ![image](https://github.com/eugeniosp3/restaurantCRMApp/assets/64187887/0bcc97a0-62cd-4e68-ac22-6595d17847de)
+
+# Learn more about Tailwind Here
+https://tailwindcss.com/
+
+
+# Learn more about Plotly/Dash Here
+https://dash.plotly.com/
