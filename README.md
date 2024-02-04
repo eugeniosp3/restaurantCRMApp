@@ -2,7 +2,7 @@
 <br>This will take you to the next level and require you to do some research. You will see me blowing past the HTML and CSS, specifically TailwindCSS, but you should research what I am doing if it makes no sense. This is an intermediate-advanced project.
 
 
-Learn more at [escapingtutorialhell.com](https://escapingtutorialhell.com/)https://escapingtutorialhell.com/
+Learn more at [escapingtutorialhell.com](https://escapingtutorialhell.com/)
 <br>20% OFF with code ESCAPE
 <br>
 <br>Our Amazing FREE Discord Server
